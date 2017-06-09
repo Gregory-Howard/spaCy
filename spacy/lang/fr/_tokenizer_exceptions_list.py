@@ -26299,4 +26299,5 @@ FR_BASE_EXCEPTIONS = [
 "σ-additivités",
 "σ-compacité",
 "σ-compact",
-"σ-compacts"]
+"σ-compacts"
+]
